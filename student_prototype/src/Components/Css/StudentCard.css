@@ -1,0 +1,91 @@
+.profileImage {
+    width: "100%";
+    size: 6cm;
+    background-color: red;
+}
+
+.body {
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 2%;
+    margin-top: 2.5%;
+}
+
+.subContainer {
+   background-color: red;
+}
+
+.ul {
+    list-style: none;
+}
+
+.btn-secondary {
+    border-image-outset: none;
+    border-color: none !important;
+
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.btn-secondary:focus {
+    border-image-outset: none;
+    border-color: none !important;
+
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #3d6083, #e5eaee);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #35526e, #e3e4e6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.btn.btn-info:hover {
+    color: black;
+    /*background-color: skyblue !important;*/
+    border-color: black;
+    outline: none !important;
+
+    background: #2193b0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  .btn.btn-info:focus {
+    color: black;
+    /*background-color: skyblue !important;*/
+    border-color: black !important;
+    outline: 10px !important;
+    box-shadow: none !important;
+
+    background: #2193b0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  }
+
+  .btn.btn-info:active {
+    color: black;
+    /*background-color: skyblue !important;*/
+    border-color: black;
+    outline: none !important;
+
+    background: #2193b0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  .active {
+    color: black;
+    /*background-color: skyblue !important;*/
+    border-color: black;
+    outline: none !important;
+
+    background: #2193b0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+
+  .dataContainer{
+    background: #2193b0;  /* fallback for old browsers */
+
+  }
+

@@ -1,0 +1,28 @@
+.form-control.input {
+    width: 40%;
+}
+
+.container.login{
+    /*background: skyblue;*/
+    border-radius: 20px;
+    max-height: 400px;
+    max-width: 600px;
+    color: white;
+    border-color: black;
+    border-style: solid;
+    padding: 2%;
+    margin-top: 5%;
+
+    background: #2193b0;  
+    background: -webkit-linear-gradient(to left, #6dd5ed, #2193b0); 
+    background: linear-gradient(to left, #6dd5ed, #2193b0); 
+}
+
+.label {
+    font-size: 20px;
+    color: black;
+    font-family: bold;
+    float: left;
+    padding-left: 2%;
+}
+
